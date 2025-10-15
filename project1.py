@@ -2,8 +2,7 @@
 # Your name: Norah Harper
 # Your student id: 46495145
 # Your email: norahha@umich.edu
-# Who or what you worked with on this homework (including generative AI like ChatGPT):
-# If you worked with generative AI also add a statement for how you used it.  
+# Who or what you worked with on this homework (including generative AI like ChatGPT): Used ChatGPT to help me understand errors I was getting with my test cases and stripping csv text
 # 
 
 import unittest
