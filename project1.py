@@ -106,9 +106,7 @@ def main():
     percent_dream = calc_percent(gentoo_islands)
     male_masses = get_males(peng_data)
     average_mass = calc_average(male_masses)
-    fout = open(generate_report(percent_dream, average_mass))
-    print(fout.read())
-    fout.close()
+    generate_report(percent_dream, average_mass)
     pass
 
 if __name__ == '__main__':
